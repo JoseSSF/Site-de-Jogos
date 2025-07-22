@@ -2,11 +2,11 @@
 
 ## Objetivo
 
-Aplicar conhecimentos
+No inicio quis apenas testar alguns conhecimentos e logo depois surgiu a oportunidade de adaptar e ser entregue para um projeto simples na faculdade
 
 ## Link para acesso
 
-https://josessf.github.io/Site-de-Jogos/main.html
+https://josessf.github.io/Site-de-Jogos/
 
 ## Descrição
 
