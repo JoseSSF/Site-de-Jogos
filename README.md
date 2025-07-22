@@ -1,4 +1,4 @@
-# Site de Jogos (em andamento)
+# Site de Jogos
 
 ## Objetivo
 
